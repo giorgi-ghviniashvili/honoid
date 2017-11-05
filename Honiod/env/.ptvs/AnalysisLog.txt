@@ -1,0 +1,399 @@
+﻿
+2017-11-05T21:27:00: Start analysis
+2017-11-05T21:27:12: [WARNING] Library was set explicitly - skipping path detection
+2017-11-05T21:27:22: IncludeModulesFromModulePath = win32com
+2017-11-05T21:33:38: Deleting 0 files
+2017-11-05T21:33:39: Scraping builtin modules
+2017-11-05T21:33:39: Command: "c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-11-05T21:35:00: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\signal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-11-05T21:35:00: Scraped builtin modules
+2017-11-05T21:35:00: astropy.CallDepth = 0
+2017-11-05T21:35:00: matplotlib.CallDepth = 3
+2017-11-05T21:35:00: pandas.CallDepth = 0
+2017-11-05T21:35:00: sympy.CallDepth = 0
+2017-11-05T21:35:00: Start group "c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib" with 175 files
+2017-11-05T21:35:08: Parsing "abc" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\abc.py")
+2017-11-05T21:35:11: Parsing "base64" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\base64.py")
+2017-11-05T21:35:13: Parsing "bisect" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\bisect.py")
+2017-11-05T21:35:13: Parsing "codecs" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\codecs.py")
+2017-11-05T21:35:13: Parsing "copy" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\copy.py")
+2017-11-05T21:35:13: Parsing "copyreg" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\copyreg.py")
+2017-11-05T21:35:13: Parsing "fnmatch" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\fnmatch.py")
+2017-11-05T21:35:13: Parsing "functools" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\functools.py")
+2017-11-05T21:35:13: Parsing "genericpath" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\genericpath.py")
+2017-11-05T21:35:13: Parsing "hashlib" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\hashlib.py")
+2017-11-05T21:35:13: Parsing "heapq" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\heapq.py")
+2017-11-05T21:35:13: Parsing "hmac" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\hmac.py")
+2017-11-05T21:35:13: Parsing "imp" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\imp.py")
+2017-11-05T21:35:13: Parsing "io" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\io.py")
+2017-11-05T21:35:13: Parsing "keyword" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\keyword.py")
+2017-11-05T21:35:13: Parsing "linecache" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\linecache.py")
+2017-11-05T21:35:13: Parsing "locale" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\locale.py")
+2017-11-05T21:35:13: Parsing "ntpath" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\ntpath.py")
+2017-11-05T21:35:13: Parsing "operator" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\operator.py")
+2017-11-05T21:35:13: Parsing "os" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\os.py")
+2017-11-05T21:35:13: Parsing "posixpath" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\posixpath.py")
+2017-11-05T21:35:13: Parsing "random" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\random.py")
+2017-11-05T21:35:13: Parsing "re" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\re.py")
+2017-11-05T21:35:13: Parsing "reprlib" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\reprlib.py")
+2017-11-05T21:35:13: Parsing "rlcompleter" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\rlcompleter.py")
+2017-11-05T21:35:13: Parsing "shutil" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\shutil.py")
+2017-11-05T21:35:14: Parsing "site" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\site.py")
+2017-11-05T21:35:14: Parsing "sre_compile" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\sre_compile.py")
+2017-11-05T21:35:14: Parsing "sre_constants" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\sre_constants.py")
+2017-11-05T21:35:14: Parsing "sre_parse" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\sre_parse.py")
+2017-11-05T21:35:14: Parsing "stat" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\stat.py")
+2017-11-05T21:35:14: Parsing "struct" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\struct.py")
+2017-11-05T21:35:14: Parsing "tarfile" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\tarfile.py")
+2017-11-05T21:35:14: Parsing "tempfile" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\tempfile.py")
+2017-11-05T21:35:14: Parsing "token" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\token.py")
+2017-11-05T21:35:14: Parsing "tokenize" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\tokenize.py")
+2017-11-05T21:35:14: Parsing "types" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\types.py")
+2017-11-05T21:35:14: Parsing "warnings" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\warnings.py")
+2017-11-05T21:35:14: Parsing "weakref" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\weakref.py")
+2017-11-05T21:35:14: Parsing "_bootlocale" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\_bootlocale.py")
+2017-11-05T21:35:14: Parsing "_collections_abc" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\_collections_abc.py")
+2017-11-05T21:35:14: Parsing "_dummy_thread" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\_dummy_thread.py")
+2017-11-05T21:35:14: Parsing "_weakrefset" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\_weakrefset.py")
+2017-11-05T21:35:14: Parsing "__future__" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\__future__.py")
+2017-11-05T21:35:14: Parsing "collections.abc" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\collections\abc.py")
+2017-11-05T21:35:14: Parsing "collections" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\collections\__init__.py")
+2017-11-05T21:35:14: Parsing "collections.__main__" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\collections\__main__.py")
+2017-11-05T21:35:14: Parsing "distutils" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\distutils\__init__.py")
+2017-11-05T21:35:14: Parsing "encodings.aliases" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\aliases.py")
+2017-11-05T21:35:14: Parsing "encodings.ascii" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\ascii.py")
+2017-11-05T21:35:14: Parsing "encodings.base64_codec" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\base64_codec.py")
+2017-11-05T21:35:14: Parsing "encodings.big5" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\big5.py")
+2017-11-05T21:35:14: Parsing "encodings.big5hkscs" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\big5hkscs.py")
+2017-11-05T21:35:14: Parsing "encodings.bz2_codec" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\bz2_codec.py")
+2017-11-05T21:35:14: Parsing "encodings.charmap" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\charmap.py")
+2017-11-05T21:35:14: Parsing "encodings.cp037" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp037.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1006" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1006.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1026" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1026.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1125" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1125.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1140" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1140.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1250" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1250.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1251" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1251.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1252" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1252.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1253" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1253.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1254" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1254.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1255" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1255.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1256" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1256.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1257" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1257.py")
+2017-11-05T21:35:14: Parsing "encodings.cp1258" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp1258.py")
+2017-11-05T21:35:14: Parsing "encodings.cp273" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp273.py")
+2017-11-05T21:35:14: Parsing "encodings.cp424" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp424.py")
+2017-11-05T21:35:14: Parsing "encodings.cp437" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp437.py")
+2017-11-05T21:35:14: Parsing "encodings.cp500" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp500.py")
+2017-11-05T21:35:14: Parsing "encodings.cp65001" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp65001.py")
+2017-11-05T21:35:14: Parsing "encodings.cp720" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp720.py")
+2017-11-05T21:35:14: Parsing "encodings.cp737" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp737.py")
+2017-11-05T21:35:14: Parsing "encodings.cp775" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp775.py")
+2017-11-05T21:35:15: Parsing "encodings.cp850" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp850.py")
+2017-11-05T21:35:15: Parsing "encodings.cp852" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp852.py")
+2017-11-05T21:35:15: Parsing "encodings.cp855" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp855.py")
+2017-11-05T21:35:15: Parsing "encodings.cp856" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp856.py")
+2017-11-05T21:35:15: Parsing "encodings.cp857" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp857.py")
+2017-11-05T21:35:15: Parsing "encodings.cp858" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp858.py")
+2017-11-05T21:35:15: Parsing "encodings.cp860" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp860.py")
+2017-11-05T21:35:15: Parsing "encodings.cp861" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp861.py")
+2017-11-05T21:35:15: Parsing "encodings.cp862" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp862.py")
+2017-11-05T21:35:15: Parsing "encodings.cp863" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp863.py")
+2017-11-05T21:35:15: Parsing "encodings.cp864" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp864.py")
+2017-11-05T21:35:15: Parsing "encodings.cp865" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp865.py")
+2017-11-05T21:35:15: Parsing "encodings.cp866" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp866.py")
+2017-11-05T21:35:15: Parsing "encodings.cp869" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp869.py")
+2017-11-05T21:35:15: Parsing "encodings.cp874" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp874.py")
+2017-11-05T21:35:15: Parsing "encodings.cp875" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp875.py")
+2017-11-05T21:35:15: Parsing "encodings.cp932" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp932.py")
+2017-11-05T21:35:15: Parsing "encodings.cp949" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp949.py")
+2017-11-05T21:35:15: Parsing "encodings.cp950" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\cp950.py")
+2017-11-05T21:35:15: Parsing "encodings.euc_jisx0213" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\euc_jisx0213.py")
+2017-11-05T21:35:15: Parsing "encodings.euc_jis_2004" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\euc_jis_2004.py")
+2017-11-05T21:35:15: Parsing "encodings.euc_jp" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\euc_jp.py")
+2017-11-05T21:35:15: Parsing "encodings.euc_kr" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\euc_kr.py")
+2017-11-05T21:35:15: Parsing "encodings.gb18030" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\gb18030.py")
+2017-11-05T21:35:15: Parsing "encodings.gb2312" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\gb2312.py")
+2017-11-05T21:35:15: Parsing "encodings.gbk" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\gbk.py")
+2017-11-05T21:35:15: Parsing "encodings.hex_codec" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\hex_codec.py")
+2017-11-05T21:35:15: Parsing "encodings.hp_roman8" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\hp_roman8.py")
+2017-11-05T21:35:15: Parsing "encodings.hz" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\hz.py")
+2017-11-05T21:35:15: Parsing "encodings.idna" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\idna.py")
+2017-11-05T21:35:15: Parsing "encodings.iso2022_jp" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso2022_jp.py")
+2017-11-05T21:35:15: Parsing "encodings.iso2022_jp_1" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso2022_jp_1.py")
+2017-11-05T21:35:15: Parsing "encodings.iso2022_jp_2" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso2022_jp_2.py")
+2017-11-05T21:35:15: Parsing "encodings.iso2022_jp_2004" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso2022_jp_2004.py")
+2017-11-05T21:35:15: Parsing "encodings.iso2022_jp_3" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso2022_jp_3.py")
+2017-11-05T21:35:15: Parsing "encodings.iso2022_jp_ext" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso2022_jp_ext.py")
+2017-11-05T21:35:15: Parsing "encodings.iso2022_kr" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso2022_kr.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_1" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_1.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_10" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_10.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_11" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_11.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_13" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_13.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_14" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_14.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_15" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_15.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_16" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_16.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_2" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_2.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_3" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_3.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_4" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_4.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_5" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_5.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_6" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_6.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_7" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_7.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_8" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_8.py")
+2017-11-05T21:35:15: Parsing "encodings.iso8859_9" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\iso8859_9.py")
+2017-11-05T21:35:15: Parsing "encodings.johab" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\johab.py")
+2017-11-05T21:35:15: Parsing "encodings.koi8_r" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\koi8_r.py")
+2017-11-05T21:35:15: Parsing "encodings.koi8_u" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\koi8_u.py")
+2017-11-05T21:35:15: Parsing "encodings.latin_1" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\latin_1.py")
+2017-11-05T21:35:15: Parsing "encodings.mac_arabic" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\mac_arabic.py")
+2017-11-05T21:35:15: Parsing "encodings.mac_centeuro" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\mac_centeuro.py")
+2017-11-05T21:35:15: Parsing "encodings.mac_croatian" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\mac_croatian.py")
+2017-11-05T21:35:15: Parsing "encodings.mac_cyrillic" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\mac_cyrillic.py")
+2017-11-05T21:35:15: Parsing "encodings.mac_farsi" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\mac_farsi.py")
+2017-11-05T21:35:15: Parsing "encodings.mac_greek" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\mac_greek.py")
+2017-11-05T21:35:15: Parsing "encodings.mac_iceland" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\mac_iceland.py")
+2017-11-05T21:35:15: Parsing "encodings.mac_latin2" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\mac_latin2.py")
+2017-11-05T21:35:15: Parsing "encodings.mac_roman" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\mac_roman.py")
+2017-11-05T21:35:15: Parsing "encodings.mac_romanian" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\mac_romanian.py")
+2017-11-05T21:35:15: Parsing "encodings.mac_turkish" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\mac_turkish.py")
+2017-11-05T21:35:15: Parsing "encodings.mbcs" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\mbcs.py")
+2017-11-05T21:35:15: Parsing "encodings.palmos" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\palmos.py")
+2017-11-05T21:35:15: Parsing "encodings.ptcp154" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\ptcp154.py")
+2017-11-05T21:35:15: Parsing "encodings.punycode" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\punycode.py")
+2017-11-05T21:35:15: Parsing "encodings.quopri_codec" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\quopri_codec.py")
+2017-11-05T21:35:15: Parsing "encodings.raw_unicode_escape" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\raw_unicode_escape.py")
+2017-11-05T21:35:15: Parsing "encodings.rot_13" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\rot_13.py")
+2017-11-05T21:35:15: Parsing "encodings.shift_jis" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\shift_jis.py")
+2017-11-05T21:35:15: Parsing "encodings.shift_jisx0213" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\shift_jisx0213.py")
+2017-11-05T21:35:15: Parsing "encodings.shift_jis_2004" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\shift_jis_2004.py")
+2017-11-05T21:35:15: Parsing "encodings.tis_620" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\tis_620.py")
+2017-11-05T21:35:15: Parsing "encodings.undefined" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\undefined.py")
+2017-11-05T21:35:15: Parsing "encodings.unicode_escape" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\unicode_escape.py")
+2017-11-05T21:35:15: Parsing "encodings.unicode_internal" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\unicode_internal.py")
+2017-11-05T21:35:15: Parsing "encodings.utf_16" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\utf_16.py")
+2017-11-05T21:35:15: Parsing "encodings.utf_16_be" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\utf_16_be.py")
+2017-11-05T21:35:15: Parsing "encodings.utf_16_le" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\utf_16_le.py")
+2017-11-05T21:35:15: Parsing "encodings.utf_32" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\utf_32.py")
+2017-11-05T21:35:15: Parsing "encodings.utf_32_be" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\utf_32_be.py")
+2017-11-05T21:35:15: Parsing "encodings.utf_32_le" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\utf_32_le.py")
+2017-11-05T21:35:15: Parsing "encodings.utf_7" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\utf_7.py")
+2017-11-05T21:35:15: Parsing "encodings.utf_8" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\utf_8.py")
+2017-11-05T21:35:15: Parsing "encodings.utf_8_sig" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\utf_8_sig.py")
+2017-11-05T21:35:15: Parsing "encodings.uu_codec" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\uu_codec.py")
+2017-11-05T21:35:15: Parsing "encodings.zlib_codec" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\zlib_codec.py")
+2017-11-05T21:35:15: Parsing "encodings" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\encodings\__init__.py")
+2017-11-05T21:35:15: Parsing "importlib.abc" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\importlib\abc.py")
+2017-11-05T21:35:15: Parsing "importlib.machinery" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\importlib\machinery.py")
+2017-11-05T21:35:15: Parsing "importlib.util" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\importlib\util.py")
+2017-11-05T21:35:15: Parsing "importlib._bootstrap" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\importlib\_bootstrap.py")
+2017-11-05T21:35:15: Parsing "importlib" ("c:\users\gio\documents\visual studio 2015\Projects\Honiod\Honiod\env\Lib\importlib\__init__.py")
+2017-11-05T21:35:15: Parsing complete
+2017-11-05T21:35:15: Analyzing "abc"
+2017-11-05T21:35:16: Analyzing "base64"
+2017-11-05T21:35:16: Analyzing "bisect"
+2017-11-05T21:35:16: Analyzing "codecs"
+2017-11-05T21:35:16: Analyzing "copy"
+2017-11-05T21:35:16: Analyzing "copyreg"
+2017-11-05T21:35:16: Analyzing "fnmatch"
+2017-11-05T21:35:16: Analyzing "functools"
+2017-11-05T21:35:16: Analyzing "genericpath"
+2017-11-05T21:35:16: Analyzing "hashlib"
+2017-11-05T21:35:16: Analyzing "heapq"
+2017-11-05T21:35:16: Analyzing "hmac"
+2017-11-05T21:35:16: Analyzing "imp"
+2017-11-05T21:35:16: Analyzing "io"
+2017-11-05T21:35:16: Analyzing "keyword"
+2017-11-05T21:35:16: Analyzing "linecache"
+2017-11-05T21:35:16: Analyzing "locale"
+2017-11-05T21:35:16: Analyzing "ntpath"
+2017-11-05T21:35:16: Analyzing "operator"
+2017-11-05T21:35:16: Analyzing "os"
+2017-11-05T21:35:16: Analyzing "posixpath"
+2017-11-05T21:35:16: Analyzing "random"
+2017-11-05T21:35:16: Analyzing "re"
+2017-11-05T21:35:16: Analyzing "reprlib"
+2017-11-05T21:35:16: Analyzing "rlcompleter"
+2017-11-05T21:35:16: Analyzing "shutil"
+2017-11-05T21:35:16: Analyzing "site"
+2017-11-05T21:35:16: Analyzing "sre_compile"
+2017-11-05T21:35:16: Analyzing "sre_constants"
+2017-11-05T21:35:16: Analyzing "sre_parse"
+2017-11-05T21:35:16: Analyzing "stat"
+2017-11-05T21:35:16: Analyzing "struct"
+2017-11-05T21:35:16: Analyzing "tarfile"
+2017-11-05T21:35:16: Analyzing "tempfile"
+2017-11-05T21:35:16: Analyzing "token"
+2017-11-05T21:35:16: Analyzing "tokenize"
+2017-11-05T21:35:16: Analyzing "types"
+2017-11-05T21:35:16: Analyzing "warnings"
+2017-11-05T21:35:16: Analyzing "weakref"
+2017-11-05T21:35:16: Analyzing "_bootlocale"
+2017-11-05T21:35:16: Analyzing "_collections_abc"
+2017-11-05T21:35:16: Analyzing "_dummy_thread"
+2017-11-05T21:35:16: Analyzing "_weakrefset"
+2017-11-05T21:35:16: Analyzing "__future__"
+2017-11-05T21:35:16: Analyzing "collections.abc"
+2017-11-05T21:35:16: Analyzing "collections"
+2017-11-05T21:35:16: Analyzing "collections.__main__"
+2017-11-05T21:35:16: Analyzing "distutils"
+2017-11-05T21:35:16: Analyzing "encodings.aliases"
+2017-11-05T21:35:16: Analyzing "encodings.ascii"
+2017-11-05T21:35:16: Analyzing "encodings.base64_codec"
+2017-11-05T21:35:16: Analyzing "encodings.big5"
+2017-11-05T21:35:16: Analyzing "encodings.big5hkscs"
+2017-11-05T21:35:16: Analyzing "encodings.bz2_codec"
+2017-11-05T21:35:16: Analyzing "encodings.charmap"
+2017-11-05T21:35:16: Analyzing "encodings.cp037"
+2017-11-05T21:35:16: Analyzing "encodings.cp1006"
+2017-11-05T21:35:16: Analyzing "encodings.cp1026"
+2017-11-05T21:35:16: Analyzing "encodings.cp1125"
+2017-11-05T21:35:16: Analyzing "encodings.cp1140"
+2017-11-05T21:35:16: Analyzing "encodings.cp1250"
+2017-11-05T21:35:16: Analyzing "encodings.cp1251"
+2017-11-05T21:35:16: Analyzing "encodings.cp1252"
+2017-11-05T21:35:16: Analyzing "encodings.cp1253"
+2017-11-05T21:35:16: Analyzing "encodings.cp1254"
+2017-11-05T21:35:16: Analyzing "encodings.cp1255"
+2017-11-05T21:35:16: Analyzing "encodings.cp1256"
+2017-11-05T21:35:16: Analyzing "encodings.cp1257"
+2017-11-05T21:35:16: Analyzing "encodings.cp1258"
+2017-11-05T21:35:16: Analyzing "encodings.cp273"
+2017-11-05T21:35:16: Analyzing "encodings.cp424"
+2017-11-05T21:35:16: Analyzing "encodings.cp437"
+2017-11-05T21:35:16: Analyzing "encodings.cp500"
+2017-11-05T21:35:16: Analyzing "encodings.cp65001"
+2017-11-05T21:35:16: Analyzing "encodings.cp720"
+2017-11-05T21:35:16: Analyzing "encodings.cp737"
+2017-11-05T21:35:16: Analyzing "encodings.cp775"
+2017-11-05T21:35:16: Analyzing "encodings.cp850"
+2017-11-05T21:35:16: Analyzing "encodings.cp852"
+2017-11-05T21:35:16: Analyzing "encodings.cp855"
+2017-11-05T21:35:16: Analyzing "encodings.cp856"
+2017-11-05T21:35:16: Analyzing "encodings.cp857"
+2017-11-05T21:35:16: Analyzing "encodings.cp858"
+2017-11-05T21:35:16: Analyzing "encodings.cp860"
+2017-11-05T21:35:16: Analyzing "encodings.cp861"
+2017-11-05T21:35:16: Analyzing "encodings.cp862"
+2017-11-05T21:35:16: Analyzing "encodings.cp863"
+2017-11-05T21:35:16: Analyzing "encodings.cp864"
+2017-11-05T21:35:16: Analyzing "encodings.cp865"
+2017-11-05T21:35:16: Analyzing "encodings.cp866"
+2017-11-05T21:35:16: Analyzing "encodings.cp869"
+2017-11-05T21:35:16: Analyzing "encodings.cp874"
+2017-11-05T21:35:16: Analyzing "encodings.cp875"
+2017-11-05T21:35:16: Analyzing "encodings.cp932"
+2017-11-05T21:35:16: Analyzing "encodings.cp949"
+2017-11-05T21:35:16: Analyzing "encodings.cp950"
+2017-11-05T21:35:16: Analyzing "encodings.euc_jisx0213"
+2017-11-05T21:35:16: Analyzing "encodings.euc_jis_2004"
+2017-11-05T21:35:16: Analyzing "encodings.euc_jp"
+2017-11-05T21:35:16: Analyzing "encodings.euc_kr"
+2017-11-05T21:35:16: Analyzing "encodings.gb18030"
+2017-11-05T21:35:16: Analyzing "encodings.gb2312"
+2017-11-05T21:35:16: Analyzing "encodings.gbk"
+2017-11-05T21:35:16: Analyzing "encodings.hex_codec"
+2017-11-05T21:35:16: Analyzing "encodings.hp_roman8"
+2017-11-05T21:35:16: Analyzing "encodings.hz"
+2017-11-05T21:35:16: Analyzing "encodings.idna"
+2017-11-05T21:35:16: Analyzing "encodings.iso2022_jp"
+2017-11-05T21:35:16: Analyzing "encodings.iso2022_jp_1"
+2017-11-05T21:35:16: Analyzing "encodings.iso2022_jp_2"
+2017-11-05T21:35:16: Analyzing "encodings.iso2022_jp_2004"
+2017-11-05T21:35:16: Analyzing "encodings.iso2022_jp_3"
+2017-11-05T21:35:16: Analyzing "encodings.iso2022_jp_ext"
+2017-11-05T21:35:16: Analyzing "encodings.iso2022_kr"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_1"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_10"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_11"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_13"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_14"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_15"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_16"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_2"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_3"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_4"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_5"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_6"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_7"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_8"
+2017-11-05T21:35:16: Analyzing "encodings.iso8859_9"
+2017-11-05T21:35:16: Analyzing "encodings.johab"
+2017-11-05T21:35:16: Analyzing "encodings.koi8_r"
+2017-11-05T21:35:16: Analyzing "encodings.koi8_u"
+2017-11-05T21:35:16: Analyzing "encodings.latin_1"
+2017-11-05T21:35:16: Analyzing "encodings.mac_arabic"
+2017-11-05T21:35:16: Analyzing "encodings.mac_centeuro"
+2017-11-05T21:35:16: Analyzing "encodings.mac_croatian"
+2017-11-05T21:35:16: Analyzing "encodings.mac_cyrillic"
+2017-11-05T21:35:16: Analyzing "encodings.mac_farsi"
+2017-11-05T21:35:16: Analyzing "encodings.mac_greek"
+2017-11-05T21:35:16: Analyzing "encodings.mac_iceland"
+2017-11-05T21:35:16: Analyzing "encodings.mac_latin2"
+2017-11-05T21:35:16: Analyzing "encodings.mac_roman"
+2017-11-05T21:35:16: Analyzing "encodings.mac_romanian"
+2017-11-05T21:35:16: Analyzing "encodings.mac_turkish"
+2017-11-05T21:35:16: Analyzing "encodings.mbcs"
+2017-11-05T21:35:16: Analyzing "encodings.palmos"
+2017-11-05T21:35:16: Analyzing "encodings.ptcp154"
+2017-11-05T21:35:16: Analyzing "encodings.punycode"
+2017-11-05T21:35:16: Analyzing "encodings.quopri_codec"
+2017-11-05T21:35:16: Analyzing "encodings.raw_unicode_escape"
+2017-11-05T21:35:16: Analyzing "encodings.rot_13"
+2017-11-05T21:35:16: Analyzing "encodings.shift_jis"
+2017-11-05T21:35:16: Analyzing "encodings.shift_jisx0213"
+2017-11-05T21:35:16: Analyzing "encodings.shift_jis_2004"
+2017-11-05T21:35:16: Analyzing "encodings.tis_620"
+2017-11-05T21:35:16: Analyzing "encodings.undefined"
+2017-11-05T21:35:16: Analyzing "encodings.unicode_escape"
+2017-11-05T21:35:16: Analyzing "encodings.unicode_internal"
+2017-11-05T21:35:16: Analyzing "encodings.utf_16"
+2017-11-05T21:35:16: Analyzing "encodings.utf_16_be"
+2017-11-05T21:35:16: Analyzing "encodings.utf_16_le"
+2017-11-05T21:35:16: Analyzing "encodings.utf_32"
+2017-11-05T21:35:16: Analyzing "encodings.utf_32_be"
+2017-11-05T21:35:16: Analyzing "encodings.utf_32_le"
+2017-11-05T21:35:16: Analyzing "encodings.utf_7"
+2017-11-05T21:35:16: Analyzing "encodings.utf_8"
+2017-11-05T21:35:16: Analyzing "encodings.utf_8_sig"
+2017-11-05T21:35:16: Analyzing "encodings.uu_codec"
+2017-11-05T21:35:16: Analyzing "encodings.zlib_codec"
+2017-11-05T21:35:16: Analyzing "encodings"
+2017-11-05T21:35:16: Analyzing "importlib.abc"
+2017-11-05T21:35:16: Analyzing "importlib.machinery"
+2017-11-05T21:35:16: Analyzing "importlib.util"
+2017-11-05T21:35:16: Analyzing "importlib._bootstrap"
+2017-11-05T21:35:16: Analyzing "importlib"
+2017-11-05T21:35:16: Starting analysis of 175 modules
+
+2017-11-05T21:35:38: Start analysis
+2017-11-05T21:35:38: [WARNING] Library was set explicitly - skipping path detection
+2017-11-05T21:35:38: IncludeModulesFromModulePath = win32com
