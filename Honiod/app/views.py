@@ -16,6 +16,7 @@ def home(request):
         {
             'title':'Home Page',
             'year':datetime.now().year,
+            'active':'home',
         }
     )
 
@@ -29,6 +30,7 @@ def contact(request):
             'title':'Contact',
             'message':'Your contact page.',
             'year':datetime.now().year,
+            'active':'contact',
         }
     )
 
@@ -42,5 +44,18 @@ def about(request):
             'title':'About',
             'message':'Your application description page.',
             'year':datetime.now().year,
+            'active':'about',
+        }
+    )
+
+def projects(request):
+    """Renders the projects page."""
+    assert isinstance(request, HttpRequest)
+    return render(
+        request,
+        'app/projects.html',
+        {
+            'title':'projects',
+            'active':'projects',
         }
     )
