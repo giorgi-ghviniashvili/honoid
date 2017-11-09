@@ -5,7 +5,10 @@ Definition of views.
 from django.shortcuts import render
 from django.http import HttpRequest
 from django.template import RequestContext
+import json
+from django.core.serializers import serialize
 from datetime import datetime
+from app.models import Project
 
 def home(request):
     """Renders the home page."""
@@ -51,11 +54,13 @@ def about(request):
 def projects(request):
     """Renders the projects page."""
     assert isinstance(request, HttpRequest)
+    projects = Project.objects.all()
     return render(
         request,
         'app/projects.html',
         {
             'title':'projects',
             'active':'projects',
+            'projects': serialize('json', list(projects))
         }
     )
