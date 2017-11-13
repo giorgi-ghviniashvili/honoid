@@ -17,14 +17,14 @@ admin.autodiscover()
 urlpatterns = [
     # Examples:
     url(r'^$', RedirectView.as_view(url='/ka/')),
-    url(r'^en/$', app.views_en.home, name='home'),
-    url(r'^en/contact$', app.views_en.contact, name='contact'),
-    url(r'^en/about', app.views_en.about, name='about'),
-    url(r'^en/projects', app.views_en.projects, name='projects'),
-    url(r'^en/login/$',
+    url(r'^en/$', app.views_en.home, name='home_en'),
+    url(r'^en/contact$', app.views_en.contact, name='contact_en'),
+    url(r'^en/about', app.views_en.about, name='about_en'),
+    url(r'^en/projects', app.views_en.projects, name='projects_en'),
+    url(r'^en/login_en/$',
         django.contrib.auth.views.login,
         {
-            'template_name': 'app/login.html',
+            'template_name': 'app_en/login.html',
             'authentication_form': app.forms.BootstrapAuthenticationForm,
             'extra_context':
             {
@@ -48,5 +48,8 @@ urlpatterns = [
 ]
 
 urlpatterns += [
-    url(r'^ka/$', app.views_ka.home, name='home'),
+    url(r'^ka/$', app.views_ka.home, name='home_ka'),
+    url(r'^ka/contact$', app.views_en.contact, name='contact_ka'),
+    url(r'^ka/about', app.views_en.about, name='about_ka'),
+    url(r'^ka/projects', app.views_en.projects, name='projects_ka'),
 ]
