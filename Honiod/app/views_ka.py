@@ -15,7 +15,7 @@ def home(request):
     assert isinstance(request, HttpRequest)
     return render(
         request,
-        'app/index.html',
+        'app_ka/index.html',
         {
             'title':'Home Page',
             'year':datetime.now().year,
@@ -28,7 +28,7 @@ def contact(request):
     assert isinstance(request, HttpRequest)
     return render(
         request,
-        'app/contact.html',
+        'app_ka/contact.html',
         {
             'title':'Contact',
             'message':'Your contact page.',
@@ -42,7 +42,7 @@ def about(request):
     assert isinstance(request, HttpRequest)
     return render(
         request,
-        'app/about.html',
+        'app_ka/about.html',
         {
             'title':'About',
             'message':'Your application description page.',
@@ -57,7 +57,7 @@ def projects(request):
     projects = Project.objects.all()
     return render(
         request,
-        'app/projects.html',
+        'app_ka/projects.html',
         {
             'title':'projects',
             'active':'projects',

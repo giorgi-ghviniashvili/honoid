@@ -42,14 +42,14 @@ var startStopFlag = null;
         this.Draw = function () {
             var svg = thisobj.svg;
             var ball = svg.selectAll('#' + thisobj.id)
-                        .data(thisobj.data)
-                    ;
+                        .data(thisobj.data);
             ball.enter()
                 .append("circle")
                 .attr({"id" : thisobj.id, 'class' : 'ball', 'r' : thisobj.radius, 'weight' : thisobj.weight})
                 .style("fill", thisobj.color)
                 .on('mouseenter', function(){
                     StartStopGame();
+
                 })
                 .on('mouseleave', function(){
                     StartStopGame();
@@ -60,10 +60,34 @@ var startStopFlag = null;
                 .attr("cx", thisobj.posX)
                 .attr("cy", thisobj.posY)
             ;
+
+            var text = svg.selectAll("#" + thisobj.id + "_text")
+                          .data(thisobj.data);
+
+            text.enter()
+                .append("text")
+                .attr({"id" : thisobj.id + "_text", 'class' : 'text'})
+                .text("test")
+                .style("fill", "white")
+                .attr("mouse", "pointer")
+                .on('mouseenter', function(){
+                    StartStopGame();
+
+                })
+                .on('mouseleave', function(){
+                    StartStopGame();
+                })
+                .on('click', function(){
+                    alert("hi");
+                });
+
+            text.attr("x", thisobj.posX - thisobj.radius / 2)
+                .attr("y", thisobj.posY);
             // intersect ball is used to show collision effect - every ball has it's own intersect ball
             var intersectBall = ball.enter()
                                 .append('circle')
                                 .attr({ 'id': thisobj.id + '_intersect', 'class': 'intersectBall' });
+            
         }
 
         this.Move = function () {

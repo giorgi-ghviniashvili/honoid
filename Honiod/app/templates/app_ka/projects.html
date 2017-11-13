@@ -1,0 +1,33 @@
+{% extends "app_ka/layout.html" %}
+
+{% block content %}
+{% load static %}
+<style type="text/css">
+	svg .text:hover{
+		fill: red;
+	}
+</style>
+<script type="text/javascript" src="{% static "app/scripts/d3.v3.js" %}"></script>
+<script type="text/javascript" src="{% static "app/scripts/bouncing-balls.js" %}"></script>
+<div id="bouncing-balls" style="width:100%; height: 660px;">
+	
+
+</div>
+
+<script type="text/javascript">
+	var data = {{projects|safe}};
+	var circles = [];
+	var height = document.getElementById("bouncing-balls").clientHeight;
+    var width = document.getElementById("bouncing-balls").clientWidth;
+	for (var i = 0; i < data.length; i++) {
+		var thisData = data[i].fields;
+		var obj = {};
+        var x = Math.random() * (width - 100);
+        var y = Math.random() * (height - 100);
+		obj.x = x;
+		obj.y = y;
+		circles.push(obj);
+	}
+	run(circles);
+</script>
+{% endblock content %}
